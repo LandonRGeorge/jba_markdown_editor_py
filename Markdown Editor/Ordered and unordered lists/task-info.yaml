@@ -253,6 +253,6 @@ files:
     if __name__ == '__main__':
         Test().run_tests()
   learner_created: false
-feedback_link: https://hyperskill.org/projects/162/stages/842/implement#comment
+feedback_link: https://hyperskill.org/learn/step/12316#comment
 status: Unchecked
 record: -1
