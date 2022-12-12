@@ -3,7 +3,7 @@ hyperskill_project:
   ide_files: https://stepik.org/media/attachments/lesson/491835/additional_files.json
   is_template_based: false
   use_ide: true
-update_date: "Sun, 11 Dec 2022 14:01:37 UTC"
+update_date: "Mon, 12 Dec 2022 17:44:55 UTC"
 stages:
 - id: 839
   step: 12313
@@ -16,10 +16,10 @@ stages:
   is_completed: true
 - id: 842
   step: 12316
-  is_completed: false
+  is_completed: true
 - id: 843
   step: 12317
-  is_completed: false
+  is_completed: true
 topics:
   0:
   - title: Introduction to Python
